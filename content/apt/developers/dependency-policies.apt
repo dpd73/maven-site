@@ -37,7 +37,7 @@ Maven Dependency Policies
   project. In order to remove all doubt, this page only applies to code
   which has a Github URL that starts with 
   <<<https://github.com/apache/maven>>> or a Gitbox URL 
-  starting with <<<https://git-wip-us.apache.org/repos/asf/maven>>>
+  starting with <<<https://gitbox.apache.org/repos/asf?p=maven>>>
 
   If you have stumbled across this page and you are working on code that does
   not have a Github URL starting with 
