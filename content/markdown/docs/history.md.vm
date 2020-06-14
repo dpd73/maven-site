@@ -63,7 +63,7 @@ $b_</td>
 
 Date format is: YYYY-MM-DD
 
-<h3><a name="Maven_3">Maven 3.1+</a></h3>
+<h3><a name="Maven_31">Maven 3.1+</a></h3>
 <table>
 <tr><td>Release Date</td>
 <td>Version</td>
@@ -99,6 +99,7 @@ Date format is: YYYY-MM-DD
 <h3><a name="Maven_3">Maven 3.0.x</a></h3>
 
 <p>Maven 3.0 has now reached its end of life.
+New plugin releases will require Maven 3.1 or later.
 The following information is made available for reference.</p>
 
 <table>
